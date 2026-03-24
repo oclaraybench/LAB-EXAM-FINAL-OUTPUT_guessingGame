@@ -99,7 +99,7 @@ public class GuessingGame2 {
     }
 
     public static void main(String[] args) {
-        GuessingGame g = new GuessingGame();
+        GuessingGame2 g = new GuessingGame();
         g.start();
     }
 }
